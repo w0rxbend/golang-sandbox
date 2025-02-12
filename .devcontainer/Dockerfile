@@ -1,4 +1,4 @@
-FROM golang:1.23-bullseye
+FROM golang:1.24-bullseye
 
 # [Optional] Uncomment this section to install additional OS packages.
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
