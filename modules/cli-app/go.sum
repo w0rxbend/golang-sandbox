@@ -4,9 +4,13 @@ github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619144915
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619144915-46c8b2266676/go.mod h1:mYvfZZiKNycCDzSTZyTpbxFLpto2Z/QUn3AgLsvhcWI=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619161301-7f9c16c87c14 h1:jEI7fye4Hh+H7pVb0QARvvUitvZBn/c2WGiyNUstLms=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619161301-7f9c16c87c14/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
+github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240903231536-83eee79e5ab9 h1:69DClzTLie+Wj8kCU2jhNM04P5xNyavIivKyM9y4S7M=
+github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240903231536-83eee79e5ab9/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676 h1:IXPrlFGQpKuvgDUZWVI1TXraW+ycXMUmVSzHHmeSUGA=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676/go.mod h1:pw/KyJ9SJ1Jm3qplcLq127pb+r7fGgsw2pyc+5lDfao=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231257-7fc57b1742a4 h1:zYOOsIxiOI7DBL1j+m3jPOLl93p3ZDkpChCjLAjFhHI=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231257-7fc57b1742a4/go.mod h1:6dfEsZI+T4o7zlnspVH7Hw73u7IOCy+uMi4Y+3WpDkE=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231536-83eee79e5ab9 h1:nj89/qI2L9Ux2DBRNdCyQmFXY7iesAmE8mkiTMMvpBs=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231536-83eee79e5ab9/go.mod h1:73LtQ0ZaXX2Gj6LVSELOwUJJAFIe6NztwJux1pxT3NQ=
+github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20261111201743-d56d5d4b2cb2 h1:OTwIvS5XoVnK6PuFVu6qOBXvVns74E55pfrPzzo1GWA=
+github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20261111201743-d56d5d4b2cb2/go.mod h1:qb+yYU8DxDKqwVxUckuDmlxQ2I8rMUSB9FYdoKm9oN8=
