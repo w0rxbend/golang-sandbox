@@ -4,3 +4,5 @@ github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619161301
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619161301-7f9c16c87c14/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240903231536-83eee79e5ab9 h1:69DClzTLie+Wj8kCU2jhNM04P5xNyavIivKyM9y4S7M=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240903231536-83eee79e5ab9/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
+github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20261111201743-d56d5d4b2cb2 h1:ME0OpT45LOZtDBg4dwLZqsLbKYdIum+FjPmkbaiNd30=
+github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20261111201743-d56d5d4b2cb2/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
