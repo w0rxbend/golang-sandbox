@@ -3,7 +3,7 @@ module github.com/limpid-kzonix/golang-sandbox/main
 go 1.24
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.14
+	github.com/gofiber/fiber/v2 v2.52.16
 	github.com/limpid-kzonix/golang-sandbox/modules/cli-app v0.0.0-20261111201743-d56d5d4b2cb2
 	go.uber.org/zap v1.28.0
 )
