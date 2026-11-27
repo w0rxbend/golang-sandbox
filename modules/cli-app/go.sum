@@ -6,6 +6,8 @@ github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619161301
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240619161301-7f9c16c87c14/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240903231536-83eee79e5ab9 h1:69DClzTLie+Wj8kCU2jhNM04P5xNyavIivKyM9y4S7M=
 github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20240903231536-83eee79e5ab9/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
+github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20261126213331-83a8287312c3 h1:KBtcFEMX5ZwJ8/doqVcRLG1Qspnl0l6rZFSOPIb27JY=
+github.com/limpid-kzonix/golang-sandbox/modules/client-app v0.0.0-20261126213331-83a8287312c3/go.mod h1:CTRNWlcsG19Ok3xO5jm7Ic+11PLOQ2jeedYfGVdsP6I=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676 h1:IXPrlFGQpKuvgDUZWVI1TXraW+ycXMUmVSzHHmeSUGA=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240619144915-46c8b2266676/go.mod h1:pw/KyJ9SJ1Jm3qplcLq127pb+r7fGgsw2pyc+5lDfao=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231257-7fc57b1742a4 h1:zYOOsIxiOI7DBL1j+m3jPOLl93p3ZDkpChCjLAjFhHI=
@@ -14,3 +16,5 @@ github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231536
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20240903231536-83eee79e5ab9/go.mod h1:73LtQ0ZaXX2Gj6LVSELOwUJJAFIe6NztwJux1pxT3NQ=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20261126213253-464db58234e8 h1:IQlXtE6HP0Uc/IvvlYJf1kL6XZAu01xyFPosffdOwF4=
 github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20261126213253-464db58234e8/go.mod h1:qb+yYU8DxDKqwVxUckuDmlxQ2I8rMUSB9FYdoKm9oN8=
+github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20261126214053-d22a14ff58de h1:gTbtLASvwYmOW/4WbkFciO2/p2coufr7JNT6+3AiMg8=
+github.com/limpid-kzonix/golang-sandbox/modules/server-app v0.0.0-20261126214053-d22a14ff58de/go.mod h1:05MIlFB/bP7MMNE6L/4gsmCKRMG0wEB+rOD/hS5B9DI=
